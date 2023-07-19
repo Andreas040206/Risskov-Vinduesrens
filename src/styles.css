@@ -1,0 +1,16 @@
+body {
+  margin: 0px;
+}
+
+/* Creating header styles */
+.headerCon {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  position: sticky;
+}
+
+.headerScrolled {
+  background-color: #fff;
+}
